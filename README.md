@@ -10,3 +10,6 @@ it's focused on base finding, so do not use ts on cpvp.
 
 # why
 idk i saw on tiktok so decided to crack lol
+
+# ss
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78dd8831-d47a-41fc-b7f8-58b51f968120" />
