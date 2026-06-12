@@ -1,5 +1,5 @@
 # RektDebug
-this client is so shitcoded and it only took 2 hours just to crack it.
+this client is so shitcoded and it only took just 2 hours to crack it.
 
 this is a meteor client addon, called rektdebug. it's aiming turkish smp server (chickennw) since it has a shit anticheat. 
 
